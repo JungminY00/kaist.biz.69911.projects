@@ -87,6 +87,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | 박성규 | [https://mekhander.github.io/](https://mekhander.github.io/) |
 | 박채원 | [1chaewon1.github.io](https://1chaewon1.github.io) |
 | 서은아 | [eunatheworld.github.io](https://eunatheworld.github.io) |
+| 신정원 | [jws518.github.io](https://jws518.github.io) |
 
 ## Team 12
 
