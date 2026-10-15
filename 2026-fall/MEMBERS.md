@@ -35,7 +35,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | 김소라 | [https://shellkim.github.io/](https://shellkim.github.io/) |
 | 이다솜 | [https://somleeplus.github.io/](https://somleeplus.github.io/) |
 | 김솔비 | [https://solbi5471-dot.github.io/](https://solbi5471-dot.github.io/) |
-
+| 현은혜 | [eunhyeh.github.io](https://eunhyeh.github.io) |
 
 ## Team 5
 
