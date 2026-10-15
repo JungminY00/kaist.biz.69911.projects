@@ -72,6 +72,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | 임동균 | [https://donggyunlim0525-netizen.github.io](https://donggyunlim0525-netizen.github.io) |
 | 장래희 | [raysayhay.github.io](https://raysayhay.github.io) |
 | 김강 | [tyrion0625.github.io](https://tyrion0625.github.io) |
+| 이윤표 | [yoonpyo-lee.github.io](https://yoonpyo-lee.github.io) |
 
 ## Team 9
 
