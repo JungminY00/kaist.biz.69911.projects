@@ -28,6 +28,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | 신희진 | [heejin-shin-2026.github.io](https://heejin-shin-2026.github.io) |
 | 정찬양 | [jc0623.github.io](https://jc0623.github.io) |
 | 신지엽 | [jyshin115.github.io](https://jyshin115.github.io) |
+| 박승찬 | [scpark0524.github.io](https://scpark0524.github.io/) |
 
 ## Team 4
 
