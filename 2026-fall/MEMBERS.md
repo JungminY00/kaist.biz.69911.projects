@@ -20,7 +20,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 박혜민 | [lemonbuilder.github.io](https://lemonbuilder.github.io) |
 | 정직한 | [z-khan-jung.github.io](https://z-khan-jung.github.io) |
-
+| Moon Piah | [pinkcatcandy.github.io](https://pinkcatcandy.github.io) |
 ## Team 3
 
 | Name | Personal page |
