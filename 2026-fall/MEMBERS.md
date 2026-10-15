@@ -57,6 +57,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 양진석 | [wlstjr5817-cyber.github.io](https://wlstjr5817-cyber.github.io) |
 | 류대훈 | [daehoon-ryu.github.io](https://daehoon-ryu.github.io) |
+| 김한솜 | [cottoneee10.github.io](https://cottoneee10.github.io/) |
 
 ## Team 8
 
