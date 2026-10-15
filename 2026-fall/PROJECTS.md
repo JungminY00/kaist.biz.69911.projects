@@ -11,7 +11,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 |---|---------|-------------|------|--------------|
 | 1 | 집 사이 | 임대인과 임차인이 집의 상태와 수리 이력을 함께 기록·공유해 입주·퇴거 때 분쟁을 줄여주는 서비스입니다. | — | [IKJUN-CHI/one-team](https://github.com/IKJUN-CHI/one-team) |
 | 2 | 진짜대화 | AI가 인간을 대신하는 시대, 소외감을 느끼는 당신이 오프라인에서 대체할 수 없는 "진짜 대화"를 나눌 수 있게 돕습니다. | — | [lemonbuilder/biz.69911_team02](https://github.com/lemonbuilder/biz.69911_team02) |
-| 3 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 3 | 모두의 지원금(MOJI) | 5인 미만 영세사업장 대표가 지원사업 공고를 찾고 사업계획서 초안까지 받아 혼자 신청을 끝낼 수 있게 돕는 서비스 | — | [scpark0524/moji](https://github.com/scpark0524/moji) |
 | 4 | MOA | 피부/미용 시술 이력을 관리하고, 개인에게 맞는 다음 시술을 추천받을 수 있도록 돕는 AI 기반 뷰티 관리 서비스 | — | [shellkim/kaist-team04-project](https://github.com/shellkim/kaist-team04-project) |
 | 5 | 독서바리 | 초대받은 독서모임 전용공간으로, 각자 책을 읽으며 메모와 생각을 쌓으면 AI가 발제문과 다음 책을 추천한다 | — | [DockseoVARI](https://github.com/jnhabk/Kaist.biz.69911.DockseoVARI) |
 | 6 | (project name) | (one sentence: who it is for and what it does) | — | — |
