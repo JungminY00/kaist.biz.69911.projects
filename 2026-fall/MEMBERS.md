@@ -79,6 +79,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 김영균 | [yeongkyunkr-dot.github.io](https://yeongkyunkr-dot.github.io) |
 | 백민경 | [mk-baek.github.io](https://mk-baek.github.io) |
+| 유정민 | [jungminy00.github.io](https://jungminy00.github.io) |
 
 ## Team 11
 
