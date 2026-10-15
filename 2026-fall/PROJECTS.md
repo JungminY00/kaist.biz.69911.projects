@@ -20,7 +20,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 9 | Firm Engine | 개인회생 사건을 담당하는 로펌 근무자들을 위한 AI-Automation 서비스입니다. | — | [firmengine/firmengine](https://github.com/firmengine/firmengine) |
 | 10 | 복지용구 세컨드 오피니언 (주제 탐색 중) | 장기요양 등급을 막 받은 가족 보호자가 복지용구사업소의 제안을 판매 이해관계 없이 검토받도록 돕는 AI 서비스를 기획합니다. | — | [4kmba/ltc-caregivers](https://github.com/4kmba/ltc-caregivers) |
 | 11 | Docdall | 책을 쓰고 싶지만 막막한 일반인이 주제 선정부터 집필, 탈고까지 AI의 피드백과 함께 스스로 완주하도록 돕는 서비스 | — | [mekhander/project-docdall](https://github.com/mekhander/project-docdall) |
-| 12 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 12 | Farmcare | 자녀와 함께 농촌 체험을 찾는 도시 가족이 AI 추천으로 체험을 고르고 예약하도록 돕고, 장기적으로 고령 농가의 농장 운영을 대신 관리하는 서비스입니다. | [editha0630/Farmcare] | (https://github.com/editha0630/Farmcare) |
 | 13 | SDR Agent | 중소 SaaS·AI 기업의 SDR이 리드 리서치·선별 같은 반복 영업 업무를 덜 수 있도록 돕는 AI 에이전트 프로토타입입니다. | — | [goodyyoung-cell/Team13_SDR-Agent](https://github.com/goodyyoung-cell/Team13_SDR-Agent) |
 | 14 | 러닝자세 AI 코칭 | 부상 없이 오래 달리고 싶은 러너가 무릎 센서로 측정한 러닝 자세를 이해하고 다음 러닝에서 바꿀 행동 하나를 고르도록 돕는 AI 코칭 서비스입니다. | — | [yougait/kaist-team14-project](https://github.com/yougait/kaist-team14-project) |
 
