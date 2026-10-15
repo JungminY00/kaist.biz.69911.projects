@@ -14,7 +14,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 3 | 모두의 지원금(MOJI) | 5인 미만 영세사업장 대표가 지원사업 공고를 찾고 사업계획서 초안까지 받아 혼자 신청을 끝낼 수 있게 돕는 서비스 | — | [scpark0524/moji](https://github.com/scpark0524/moji) |
 | 4 | MOA | 피부/미용 시술 이력을 관리하고, 개인에게 맞는 다음 시술을 추천받을 수 있도록 돕는 AI 기반 뷰티 관리 서비스 | — | [shellkim/kaist-team04-project](https://github.com/shellkim/kaist-team04-project) |
 | 5 | 독서바리 | 초대받은 독서모임 전용공간으로, 각자 책을 읽으며 메모와 생각을 쌓으면 AI가 발제문과 다음 책을 추천한다 | — | [DockseoVARI](https://github.com/jnhabk/Kaist.biz.69911.DockseoVARI) |
-| 6 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 6 | SAI | 지인의 초대를 통해 참여하고, 당사자가 동의한 범위에서 소개를 주선하며, 양측이 모두 수락하면 대화가 열리는 프라이빗 지인 소개팅 서비스. | — | [shinyshinekk/team6.kaist.biz.69911.projects](https://github.com/shinyshinekk/team6.kaist.biz.69911.projects) |
 | 7 | Wine not? (주제 변경 검토 중) | 한국의 와인 초보가 마신 와인을 기록하며 자신의 취향을 알아가고 다음 와인을 고르도록 돕는 서비스를 기획합니다. | — | [wlstjr5817-cyber/kaist-team07-project](https://github.com/wlstjr5817-cyber/kaist-team07-project) |
 | 8 | 득근음료 · 청담음료 (가제) | 웰니스 유저와 헬창 유저가 제로·고단백 음료를 성분 기준으로 걸러서 비교하도록 돕는 웹 서비스입니다. | — | [donggyunlim0525-netizen/kaist-team08-project](https://github.com/donggyunlim0525-netizen/kaist-team08-project) |
 | 9 | Firm Engine | 개인회생 사건을 담당하는 로펌 근무자들을 위한 AI-Automation 서비스입니다. | — | [firmengine/firmengine](https://github.com/firmengine/firmengine) |
