@@ -47,7 +47,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | 정민영 | [https://kie1057.github.io/](https://kie1057.github.io/) |
 | 김지원 | [jiwonemilykim.github.io](https://jiwonemilykim.github.io) |
 | 박지수 | [jisupark0104.github.io](https://jisupark0104.github.io) |
-| 박진하 | [jnhabk](https://jnhabk.github.io/)|
+| 박진하 | [jnhabk.github.io](https://jnhabk.github.io/) |
 
 ## Team 6
 
